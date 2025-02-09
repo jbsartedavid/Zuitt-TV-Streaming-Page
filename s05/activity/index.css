@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F5F5F5;
+	font-family: Roboto, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	text-align: center;
+	padding: 8px;
+	background-color: #DD88CF;
+}
+
+#landing {
+	text-align: right;
+	padding: 100px;
+	background-color: #DD88CF;
+}
+
+.landing-heading {
+	font-weight: bold;
+	font-size: 5rem;
+}
+.landing-heading, .landing-motto, .landing-action, .landing-search {
+	margin: 5px 0 5px 0;
+}
+
+#movies {
+	text-align: center;
+	padding: 50px;
+
+}
+
+.movies-heading {
+	margin-bottom: 15px;
+	font-size: 2rem;
+
+}
+
+.card {
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+	border-radius: 15px;
+}
+
+#contact{
+	background-color:  #DD88CF;
+	text-align: center;
+	padding: 10px;
+}
+
+.contact-heading, .contact-facebook, .contact-instagram {
+	margin: 5px 0 5px 0;
+}
